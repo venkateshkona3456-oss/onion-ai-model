@@ -1,0 +1,7 @@
+venv/
+veg1-hcqsf/
+onion-disease-3/
+onion-detection-1/
+runs/detect/onion_quality_v1/
+__pycache__/
+*.pyc
